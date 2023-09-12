@@ -12,7 +12,7 @@ p {
   margin-top: 50px;
 }
 span.left-arrow, span.right-arrow {
-  color: #fbfbfb;
+  color: #FF0000;
   cursor: pointer;
   display: block;
   font-size: 1em;
@@ -25,7 +25,7 @@ span.left-arrow, span.right-arrow {
   z-index: 999;
 }
 span.left-arrow:hover, span.right-arrow:hover {
-  background-color: #87CEEB;
+  background-color: #FF0000;
 }
 
 .left-arrow {
@@ -55,7 +55,7 @@ span.left-arrow:hover, span.right-arrow:hover {
   position: relative;
 }
 .slider .carousel li {
-  background-image: url(https://rawcdn.githack.com/Sofa1874/SMI_1/05e19b1bc53814720e8ae116aecc3a98cac66507/Background1.jpg);
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614390402_21-p-temnii-fon-dlya-avatarki-28.jpg);
   display: block;
   float: left;
   height: 300px;
